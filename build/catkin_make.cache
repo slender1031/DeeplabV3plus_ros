@@ -1,0 +1,2 @@
+test_pytorch
+-DCATKIN_DEVEL_PREFIX=/home/slender/torch_ws/deeplab_test_ros/devel -DCMAKE_INSTALL_PREFIX=/home/slender/torch_ws/deeplab_test_ros/install -G Unix Makefiles

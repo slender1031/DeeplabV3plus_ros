@@ -1,0 +1,8 @@
+prefix=/home/slender/torch_ws/deeplab_test_ros/devel
+
+Name: test_pytorch
+Description: Description of test_pytorch
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

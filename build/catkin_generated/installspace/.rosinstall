@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/slender/torch_ws/deeplab_test_ros/install/setup.sh

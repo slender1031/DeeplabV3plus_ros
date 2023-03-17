@@ -23,4 +23,4 @@ rosrun test_pytorch example-app
 
 
 Segmentation result:
-<img src="https://github.com/slender1031/DeeplabV3plus_ros/blob/master/img0000.png" width="480" height="720" />
+<img src="https://github.com/slender1031/DeeplabV3plus_ros/blob/master/img0000.png" width="720" height="480" />
